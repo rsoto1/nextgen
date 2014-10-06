@@ -28,6 +28,8 @@ gem 'spring',        group: :development
 
 gem 'autoprefixer-rails'
 
+gem 'sprockets'
+
 gem 'foundation-rails'
 group :development do
   gem 'rails_layout'
